@@ -48,10 +48,10 @@ After extracting the data, I needed to clean it up so that it was usable for our
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![alt text](workouts_pivoted.PNG "Workouts Pivoted")
+![alt text](https://github.com/chasekregor/Workouts_Classifier/blob/master/workouts_pivoted.png "Workouts Pivoted")
 ![alt text](workouts_plotted.png "Job Opportunities by State")
 ![alt text](correlations.png "Correlations")
-![alt text](workouts_types.png "Correlations")
+![alt text](workouts_types.png "Workouts Types")
 
 ## Model Building 
 
