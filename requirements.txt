@@ -1,0 +1,24 @@
+altair==4.1.0
+astroid @ file:///opt/concourse/worker/volumes/live/21fd14a9-2a7e-484b-7394-5a9912cdcf80/volume/astroid_1592498459180/work
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1605083924122/work
+certifi==2020.12.5
+entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1605121927639/work/dist/entrypoints-0.3-py2.py3-none-any.whl
+importlib-metadata @ file:///Users/runner/miniforge3/conda-bld/importlib-metadata_1610355190026/work
+isort @ file:///tmp/build/80754af9/isort_1602603989581/work
+Jinja2==2.11.2
+jsonschema @ file:///home/conda/feedstock_root/build_artifacts/jsonschema_1602551949684/work
+lazy-object-proxy @ file:///opt/concourse/worker/volumes/live/4edac9a2-4df2-4a26-4521-3cf6eec3d38c/volume/lazy-object-proxy_1607707342845/work
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1610127533370/work
+mccabe==0.6.1
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1610324567885/work
+pandas==1.2.1
+pylint @ file:///opt/concourse/worker/volumes/live/ed0164b6-bcc7-4f6b-7dd4-ad89660b5dcb/volume/pylint_1598624018129/work
+pyrsistent @ file:///Users/runner/miniforge3/conda-bld/pyrsistent_1610146902061/work
+python-dateutil==2.8.1
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1608904108784/work
+six @ file:///opt/concourse/worker/volumes/live/5b31cb27-1e37-4ca5-6e9f-86246eb206d2/volume/six_1605205320872/work
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1600973991856/work
+vega-datasets @ file:///home/conda/feedstock_root/build_artifacts/vega_datasets_1606414058616/work
+wrapt @ file:///opt/concourse/worker/volumes/live/4fd63656-ef78-4d7f-42f4-6ab83f3ac507/volume/wrapt_1607712512486/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1603668650351/work
