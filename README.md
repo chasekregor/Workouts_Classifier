@@ -42,7 +42,7 @@ After extracting the data, I needed to clean it up so that it was usable for our
 *	Checked all columns for missing values 
 *	Filled in any missing values for average_heartrate, kilojoules, suffer_score, and average temp with the average of those columns
 *	Changed any blank values for average_cadence and average_watts to 0.
-*	Feature engineered various new features sorrounding dates (year, month, day of the week etc.)
+*	Feature engineered various new features sorrounding dates (year, month, day of the week etc.) and locations. 
 *	Removed workout types I wasn't interested in classifying 
 
 ## EDA
